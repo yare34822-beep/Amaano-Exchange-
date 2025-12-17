@@ -1,0 +1,8 @@
+{
+  "name": "Amaano Exchange",
+  "description": "A secure and user-friendly Somali money transfer and currency exchange platform supporting EVC Plus, SOS, USD, and EUR.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
